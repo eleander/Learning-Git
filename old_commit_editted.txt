@@ -1,0 +1,4 @@
+Using this tutorial to learn how to change the messages in old commits
+
+https://www.educative.io/edpresso/how-to-change-a-git-commit-message-after-a-push
+

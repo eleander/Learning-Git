@@ -1,2 +1,3 @@
 Learning how to merge
 
+Vs Code merge feels nicer

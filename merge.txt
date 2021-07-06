@@ -10,3 +10,7 @@ If merge is pushed (deletes history)
 
 If merge is pushed (keeps history)
                     git revert -m 1 (Commit id of the merge commit)
+Note: The git revert will revert the changes but will keep the history.
+Therefore you will not be able to continue working in the same branch 
+since you cannot see the actual difference between the merged branch 
+and your feature branch anymore. 

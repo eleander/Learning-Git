@@ -1,3 +1,3 @@
 Learning how to merge
 
-Vs Code merge feels nicer
+It is quite easy to fix merge conflicts with Vs Code

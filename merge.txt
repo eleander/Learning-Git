@@ -1,16 +1,3 @@
-What if I want to undo a merge?
+Learning how to merge
 
-<<<<<<< HEAD
 It is quite easy to fix merge conflicts with Vs Code
-=======
-If merge is not pushed: git reset --hard master/origin 
-
-
-If merge is pushed (deletes history)
-                    git reflog master 
-                    git reset --hard <commit number before merge>
-                    git push --f
-
-If merge is pushed (keeps history)
-                    git revert -m 1 commit_hash
->>>>>>> feature/learning_merge

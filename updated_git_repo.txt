@@ -1,3 +1,5 @@
 Updated the name of the Git repo
 
 Verifying that I can pull
+
+It worked!

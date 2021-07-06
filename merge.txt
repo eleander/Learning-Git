@@ -1,1 +1,4 @@
 What if I want to undo a merge?
+
+If merge is not pushed: git reset --hard master/origin 
+

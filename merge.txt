@@ -9,4 +9,4 @@ If merge is pushed (deletes history)
                     git push --f
 
 If merge is pushed (keeps history)
-                    git revert -m 1 commit_hash
+                    git revert -m 1 (Commit id of the merge commit)
